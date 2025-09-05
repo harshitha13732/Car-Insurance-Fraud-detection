@@ -86,3 +86,4 @@ This project shows how data science can solve real-world business challenges. By
 
 *OUTPUT*:
 
+<img width="1602" height="735" alt="Image" src="https://github.com/user-attachments/assets/9d6e4fe4-4384-4d03-80a4-1ac55216d4ae" />
